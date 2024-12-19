@@ -1,4 +1,6 @@
 import random
+
+# Global Variables
 lowerBound = 0
 upperBound = 0
 n = 0
@@ -32,8 +34,8 @@ def checkNumber(guess):
 
 # Print Loss, if the remaining chances is 0 and the Guess is not Correct.
 # Parameter: guess - the current guess
-def checkLoss(guess):
-    if n == 0 and checkNumber(guess) != 0:
+def checkLoss(n, guess):
+    if n == 0 and guess != secret_number:
         print("You Lose!")
         print("The number is ", secret_number)
 
@@ -54,7 +56,7 @@ def Game(attemps):
         n = n - 1
         print("Your remaining chances: ", n)
         print() #chance line for nice formate
-    checkLoss(guess)
+    checkLoss(n, guess)
 
 def main():
 
