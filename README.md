@@ -2,7 +2,7 @@
 
 ICS3U introduces students to computer science. The ICS3U Curriculum will have Grade 11 Computer Science students design software independently and as part of a team, using industry-standard programming tools and applying the software development life-cycle model. They will also write and use subprograms within computer programs. ICS3U1 students will develop creative solutions for various types of problems as their understanding of the computing environment grows. They will also explore environmental and ergonomic issues, emerging research in computer science, and global career trends in computer-related fields.
 
-![alt text](pics/image.png)
+![alt text](resources/pics/image.png)
 
 Grade 11 Computer Science is about how computers compute.  It is not about learning how to use the computer, and it is much more than computer programming.  Computer studies is the study of ways of representing objects and processes.  It involves defining problems, analyzing problems, designing solutions, and developing, testing, and maintaining programs.  The major focus of the ICS3U Curriculum is the development of programming skills, which are important for success in future postsecondary studies. Introduction to Computer Science is relevant for all students because it incorporates a broad range of transferable problem solving skills and techniques, including logical thinking, creative design, synthesis and evaluation.  It also teaches generically useful skills in areas such as communication, time management, organization, and teamwork.
 
@@ -55,7 +55,7 @@ By the end of this unit ICS3U Grade 11 Computer Science students will be able to
 
 ## ICS3U Unit 1 - Programming with Variables and Math using Python
 
-![alt text](pics/image-1.png)
+![alt text](resources/pics/image-1.png)
 
 ### ICS3U Curriculum Learning Goals - Unit 1
 
@@ -174,7 +174,7 @@ By the end of this unit, ICS3U Grade 11 Computer Science students will be able t
 
 ## ICS3U Unit 3 - Writing Modular Programs and Using Lists in Python
 
-![alt text](pics/image-2.png)
+![alt text](resources/pics/image-2.png)
 
 ### ICS3U Curriculum Learning Goals - Unit 3
 
@@ -210,7 +210,7 @@ By the end of this unit, ICS3U Grade 11 Computer Science students will be able t
 
 ## ICS3U Unit 4 - Emerging Computer Technologies
 
-![alt text](pics/image-3.png)
+![alt text](resources/pics/image-3.png)
 
 ### Learning Goals - Unit 4
 
@@ -249,7 +249,7 @@ By the end of this unit, ICS3U Grade 11 Computer Science students will be able t
 
 ## ICS3U - Culminating Activity
 
-![alt text](pics/image-4.png)
+![alt text](resources/pics/image-4.png)
 
 ### Learning Goals
 
