@@ -265,7 +265,7 @@ Demonstrate previously learned python programming and problem solving skills by 
 
 ## ICS3U Curriculum - Assessment and Evaluation
 
-The Ontario Ministry of Education document Growing Success determines the rules and policies for measuring and communicating achievement in Grade 11 Computer Science
+The Ontario Ministry of Education document [Growing Success](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.edu.gov.on.ca/eng/policyfunding/growsuccess.pdf) determines the rules and policies for measuring and communicating achievement in Grade 11 Computer Science
 
 The primary purpose of assessment and evaluation in Grade 11 Computer Science is to improve student learning.  Information gathered through assessment helps teachers to determine students strengths and weaknesses in their achievement or the overall ICS3U curriculum expectations.
 
@@ -361,7 +361,7 @@ The following are the Levels of Achievement for ICS3U:
 
 ### Course Content
 
-#### ICS3U - Unit 0 - The Computational Environment
+#### ICS3U - Unit 1 - The Computational Environment
 
 - ICS3U Computer Software
 
@@ -373,7 +373,7 @@ The following are the Levels of Achievement for ICS3U:
 
 - ICS3U Computational Environment Evaluation
 
-#### ICS3U - Unit 1 - Programming with Variables and Math using Python
+#### ICS3U - Unit 2 - Programming with Variables and Math using Python
 
 - ICS3U Python Programming Environments
 
@@ -389,7 +389,7 @@ The following are the Levels of Achievement for ICS3U:
 
 - ICS3U Python Programming Evaluation 2
 
-#### ICS3U - Unit 2 - Programming With Python Control Structures
+#### ICS3U - Unit 3 - Programming With Python Control Structures
 
 - ICS3U Python Selection Structures
 
@@ -403,7 +403,7 @@ The following are the Levels of Achievement for ICS3U:
 
 - ICS3U Python Programming Evaluation 5
 
-#### ICS3U - Unit 3 - Writing Modular Programs and Using Lists in Python
+#### ICS3U - Unit 4 - Writing Modular Programs and Using Lists in Python
 
 - ICS3U Python Lists and Strings
 
@@ -415,7 +415,7 @@ The following are the Levels of Achievement for ICS3U:
 
 - ICS3U Learning To Problem Solve With Python Part 3
 
-#### ICS3U - Unit 4 - Emerging Computer Technologies & Problem Solving Portfolio
+#### ICS3U - Unit 5 - Emerging Computer Technologies & Problem Solving Portfolio
 
 - ICS3U Emerging Technologies
 
