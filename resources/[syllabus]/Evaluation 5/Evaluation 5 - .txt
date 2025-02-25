@@ -1,0 +1,14 @@
+# Student: 
+# Total Grade:  / 100
+
+# ICS3UmouseMoving.py
+## Grade:  / 60
+# -  : 
+
+# ICS3UinTheCircle.py
+## Grade:  / 40
+
+# ICS3Usteps.py
+## Extra Credit Earned: +
+# Overall algorithm meet the requirement.
+# There should be only two lines of output: 1) the step string; 2) n Steps from the start

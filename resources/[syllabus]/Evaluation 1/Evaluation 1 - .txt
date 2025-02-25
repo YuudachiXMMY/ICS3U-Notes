@@ -1,0 +1,11 @@
+# Student: 
+# Total Grade:  / 100
+
+# Part 1 - AI in Modern Media
+## Grade:  / 40
+
+# Part 2 - Careers and Education
+## Grade:  / 30
+
+# Part 3 - Environmental Issues
+## Grade:  / 30

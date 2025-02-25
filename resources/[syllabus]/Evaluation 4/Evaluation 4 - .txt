@@ -1,0 +1,12 @@
+# Student: 
+# Total Grade:  / 100
+
+# ICS3UUtip.py
+## Grade:  / 30
+# -  : 
+
+# ICS3UtriangleType.py
+## Grade:  / 35
+
+# ICS3Uradar.py
+## Grade:  / 35

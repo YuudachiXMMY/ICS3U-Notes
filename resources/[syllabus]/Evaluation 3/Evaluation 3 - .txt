@@ -1,0 +1,12 @@
+# Student: 
+# ICS3Ushape3D.py
+# Total Grade:  / 100
+
+# Input 
+## Grade:  / 30
+
+# Processing
+## Grade:  / 40
+
+# Output
+## Grade:  / 30

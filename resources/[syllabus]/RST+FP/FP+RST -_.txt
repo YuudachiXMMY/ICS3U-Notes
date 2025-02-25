@@ -1,0 +1,43 @@
+# Student: 
+########################################
+# Final Project : (  / 100)
+# Part 1
+## Grade:  / 30
+
+# Part 2
+## Grade:  / 40
+
+# Part 3
+## Grade:  / 30
+
+########################################
+# Rich Summative Task : (  / 100) + (  / 20) = (  / 100 )
+
+[Mandatory]
+# ICS3UhexNibbles.py
+## Grade:  / 20
+
+# ICS3UtheNthMax.py
+## Grade:  / 30
+
+# ICS3UcubeMe.py
+## Grade:  / 20
+
+# ICS3UbestComputer.py
+## Grade:  / 10
+
+# ICS3Uintersection.py
+## Grade:  / 20
+
+[Advanced (Extra Credit)]
+# ICS3UEmiliaNumbers.py
+## Grade:  / 5
+
+# ICS3UfourFive.py
+## Grade:  / 5
+
+# ICS3UrepeatCipher.py
+## Grade:  / 5
+
+# ICS3UrebelAllianceCipher.py
+## Grade:  / 5
