@@ -2,10 +2,13 @@
 # Final Exam:  / 100
 
 # Q1
-## Grade:  / 56
+## Grade:  / 35
 
 # Q2
 ## Grade:  / 40
 
+# Q3
+## Grade:  / 20
+
 # Extra Questions
-## Grade:  / 4
+## Grade:  / 5
