@@ -1,0 +1,11 @@
+# Student: 
+# Total Grade:  / 100
+
+# ICS3UmonoGram.py
+## Grade:  / 30
+
+# ICS3UinOrder.py
+## Grade:  / 35
+
+# ICS3UgetHomeNote
+## Grade:  / 35
